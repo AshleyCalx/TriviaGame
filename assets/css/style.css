@@ -1,14 +1,15 @@
 body{
-	background: url("../images/90Abstract.jpg")
+	background: url("../images/download.jpg")
 }
 
-#h1{
+h1{
 	text-align: center;
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	text-decoration-color: white;
 }
 
 #start{
-	text-align: center;
+	align-items: center;
 
 }
 
